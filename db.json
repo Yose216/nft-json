@@ -1,16 +1,6 @@
 {
-    "nft":[
-        {
-            "id": 0,
-            "name": "Donald Trump",
-            "description": "Donald Trump NFT.",
-            "image": "https://ipfs.io/ipfs/QmZzBdKF7sQX1Q49CQGmreuZHxt9sVB3hTc3TTXYcVZ7jC",
-        },
-        {
-            "id": 1,
-            "name": "Joe Biden",
-            "description": "Joe Biden NFT.",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-        }
+    "nft": [
+        {"id": 0, "name": "Donald Trump", "description": "Donald Trump NFT.", "image": "https://ipfs.io/ipfs/QmZzBdKF7sQX1Q49CQGmreuZHxt9sVB3hTc3TTXYcVZ7jC"},
+        {"id": 1, "name": "Joe Biden", "description": "Joe Biden NFT.", "image": "https://twemoji.maxcdn.com/svg/1f40e.svg"}
     ]
 }
