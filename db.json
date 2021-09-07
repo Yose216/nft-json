@@ -1,10 +1,11 @@
+
 {
-  "nft": [
-    {
-        "id": 0,
-        "description": "Donald trump nft",
-        "image": "https://ipfs.io/ipfs/QmZzBdKF7sQX1Q49CQGmreuZHxt9sVB3hTc3TTXYcVZ7jC",
-        "name": "Donald Trump"
-    }
-  ],
+ "posts": [
+     {
+         "id": 0,
+         "description": "Donald trump nft",
+         "image": "https://ipfs.io/ipfs/QmZzBdKF7sQX1Q49CQGmreuZHxt9sVB3hTc3TTXYcVZ7jC",
+         "name": "Donald Trump"
+     }
+ ]
 }
